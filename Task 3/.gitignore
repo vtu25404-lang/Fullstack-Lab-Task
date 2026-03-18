@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Environment files
+.env
+
+# Build folders
+build/
+dist/
+
+# Next.js (if any)
+.next/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+
+# React
+coverage/
+
+# MySQL dump (optional)
+*.sql
