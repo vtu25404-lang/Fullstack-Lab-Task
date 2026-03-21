@@ -1,5 +1,17 @@
 # 🚀 FullStack Tasks Collection 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/Express.js-API-black?style=for-the-badge&logo=express">
+  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/SpringBoot-Java-green?style=for-the-badge&logo=springboot">
+</p>
+
+---
+
 > 💡 A complete hands-on collection covering  
 **HTML • CSS • JavaScript • Node.js • Express • MySQL • Spring Boot**
 
