@@ -1,4 +1,4 @@
-# 🚀 FullStack Tasks Collection (13 Tasks)
+# 🚀 FullStack Tasks Collection 
 
 > 💡 A complete hands-on collection covering  
 **HTML • CSS • JavaScript • Node.js • Express • MySQL • Spring Boot**
@@ -7,7 +7,7 @@
 
 ## 🎯 Overview
 
-This repository contains **13 practical tasks** designed to build full-stack development skills from basics to advanced concepts.
+This repository contains **practical tasks** designed to build full-stack development skills from basics to advanced concepts.
 
 ✨ Covers:
 - Frontend (HTML, CSS, JS)
