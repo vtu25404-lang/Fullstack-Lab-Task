@@ -63,3 +63,7 @@ SELECT a.id, a.name,
 FROM Accounts a
 LEFT JOIN Account_Log l ON a.id = l.account_id
 GROUP BY a.id, a.name;
+
+SELECT * FROM Accounts;
+SELECT * FROM Account_Log;
+SELECT * FROM Daily_Activity_Report;
